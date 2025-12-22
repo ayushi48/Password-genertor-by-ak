@@ -103,6 +103,7 @@ Frontend Developer | React Enthusiast | MERN Stack Developer
 ## 🚀 Installation & Setup
 
 ```bash
-git clone https://github.com/ayushi48/Password-Generator.git
-cd Password-Generator
+git clone https://github.com/ayushi48/Password-genertor-by-ak.git
+cd Password-genertor-by-ak
 open index.html
+
