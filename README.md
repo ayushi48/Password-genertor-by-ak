@@ -1,12 +1,108 @@
-# React + Vite
+# 🔐 Password Generator Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A secure, modern, and lightweight **Password Generator** web application built using **HTML, CSS, and JavaScript**, designed to generate strong and customizable passwords instantly with real-time strength evaluation and privacy-focused client-side execution.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+🚀 **Live Demo:** https://password-generator-by-ayushi.netlify.app/ 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 📌 Project Overview
+
+The Password Generator Application is a security-focused utility that helps users create strong and reliable passwords for online accounts. It allows users to customize password criteria and instantly generate secure passwords, including:
+
+- Adjustable password length  
+- Uppercase letters  
+- Lowercase letters  
+- Numbers  
+- Special characters  
+- Preferred at Desktop Mode – For Better View  
+
+The application also includes real-time password strength evaluation and password history for better usability.
+
+All operations are performed entirely on the **client side**, ensuring fast performance and complete data privacy without using any backend or database.
+
+## 🛠️ Tech Stack
+
+- HTML5 – Structure and layout  
+- CSS3 – Styling, responsiveness, and UI design  
+- JavaScript – Password generation logic and DOM manipulation  
+
+## ⭐ Key Highlights
+
+- 100% Frontend-Only: No backend, server, or database required  
+- Secure & Private: Passwords never leave the browser  
+- Real-Time Feedback: Instant password strength evaluation  
+
+## ✨ Features
+
+### 🔑 Password Generation
+- Generate strong and random passwords
+- Adjustable password length using a slider
+- Option to include:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Special characters
+
+### 📊 Strength Evaluation
+- Real-time password strength indicator
+- Visual feedback for weak, medium, and strong passwords
+- Helps users choose secure passwords
+
+### 📋 Clipboard & History
+- One-click copy to clipboard functionality
+- Password history for quick reuse
+- Improves usability and efficiency
+
+### 🎨 UI & Experience
+- Modern and responsive user interface
+- Clean cyber-security themed design
+- Smooth interactions and fast execution
+
+## 🗂️ Application Sections
+
+| Section            | Description |
+|--------------------|-------------|
+| Password Display   | Shows generated password |
+| Length Slider      | Controls password length |
+| Character Options  | Select character types |
+| Strength Indicator | Displays password strength |
+| Password History   | Stores generated passwords |
+
+## 💾 Client-Side Execution (Data Privacy)
+
+- All logic runs locally in the browser
+- No data storage on servers
+- Works offline after initial load
+- Ensures maximum security and performance
+
+## 🔮 Future Enhancements
+
+- **Password Export:** Save passwords securely
+- **Theme Toggle:** Light/Dark mode
+- **Mobile Optimization:** Enhanced mobile UI
+- **Advanced Rules:** Custom password policies
+- **PWA Support:** Offline installable application
+
+---
+
+## 👩‍💻 Author
+
+**Ayushi Kumari**  
+Frontend Developer | React Enthusiast | MERN Stack Developer  
+
+- [LinkedIn](https://www.linkedin.com/in/ayushi-kumari48/)  
+- [GitHub](https://github.com/ayushi48)  
+
+---
+
+✅ Designed to generate strong, secure passwords using a fast, privacy-first, and fully frontend-based solution.
+
+## 🚀 Installation & Setup
+
+```bash
+git clone https://github.com/ayushi48/Password-Generator.git
+cd Password-Generator
+open index.html
