@@ -1,4 +1,7 @@
 # 🔐 Password Generator Application
+<p align="center">
+  <img src="./src/assets/password .jpeg" alt="Password Generator UI" width="800"/>
+</p>
 
 A secure, modern, and lightweight **Password Generator** web application built using **HTML, CSS, and JavaScript**, designed to generate strong and customizable passwords instantly with real-time strength evaluation and privacy-focused client-side execution.
 
