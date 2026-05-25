@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="./src/assets/password .jpeg" alt="Password Generator UI" width="100%" style="border-radius: 16px;" />
 
-<br/>
-<br/>
+
+
 
 # 🔐 Password Generator
 
@@ -21,6 +20,12 @@ No backend. No data leaving your device. Just instant, secure passwords.
 </div>
 
 ---
+
+
+
+<img src="./src/assets/password .jpeg" alt="Password Generator UI" width="100%" style="border-radius: 16px;" />
+<br/>
+<br/>
 
 ## ✨ What It Does
 
